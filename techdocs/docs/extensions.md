@@ -22,21 +22,48 @@ To define an admonition simply put the following Markdown into your content:
 And they end up looking like this:
 
 <!-- prettier-ignore -->
-!!! warn
-    Defining admonitions can be addicting.
+!!! note
+    Note: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 <!-- prettier-ignore -->
-!!! note
-    You can learn a lot about TechDocs by just visiting the Backstage web site at
-    https://backstage.io/docs.
+!!! abstract
+    Abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 <!-- prettier-ignore -->
 !!! info
-    TechDocs is the core feature that supports documentation as code in Backstage.
+    Info: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 <!-- prettier-ignore -->
 !!! tip
-    Don't forget to spell check your documentation.
+    Tip: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+<!-- prettier-ignore -->
+!!! question
+    Question: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+<!-- prettier-ignore -->
+!!! warning
+    Warning: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+<!-- prettier-ignore -->
+!!! failure
+    Failure: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+<!-- prettier-ignore -->
+!!! danger
+    Danger: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+<!-- prettier-ignore -->
+!!! bug
+    Bug: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+<!-- prettier-ignore -->
+!!! example
+    Example: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+<!-- prettier-ignore -->
+!!! quote
+    Quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 ## PlantUML
 
