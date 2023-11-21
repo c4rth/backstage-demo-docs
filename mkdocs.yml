@@ -9,4 +9,5 @@ nav:
     - v3: '!include https://github.com/backstage/mkdocs-monorepo-plugin/blob/master/sample-docs/v3/mkdocs.yml'
 
 plugins:
+  - techdocs-core
   - monorepo
