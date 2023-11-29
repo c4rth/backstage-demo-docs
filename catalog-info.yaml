@@ -6,6 +6,7 @@ metadata:
   description: Repo TechDocs documentation
   annotations:
     backstage.io/techdocs-ref: dir:.
+    company.com/techdocs-builder: local
 spec:
   type: service
   lifecycle: experimental
